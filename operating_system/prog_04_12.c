@@ -3,6 +3,7 @@
 #include <pthread_exception.h>
 
 void* main1(), * main2();
+
 int total = 0;
 
 main(int ac, char* av[])
